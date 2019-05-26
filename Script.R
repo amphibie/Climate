@@ -3,7 +3,7 @@ rm(list=ls(all=TRUE))
 #Download of NOAA Merged Land Ocean Global Surface Temperature Analysis Dataset (NOAAGlobalTemp) Data in the root/working directory of RStudio: 
 #NOAAGlobalTemp Dataset (8.7 MB)
 #[ftp://ftp.ncdc.noaa.gov/pub/data/noaaglobaltemp/operational/gridded/NOAAGlobalTemp.gridded.v4.0.1.201810.asc]
-setwd("/Users/Paul/NOAA")
+setwd("/Users/Paul/Climate")
 da1=scan("NOAAGlobalTemp.gridded.v4.0.1.201809.asc.gz")
 length(da1)
 #[1] 4319010

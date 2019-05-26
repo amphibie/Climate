@@ -16,7 +16,7 @@ NOAAGlobalTemp Dataset (8.7 MB)
 (Source:NOAA Global Surface Temperature (NOAAGlobalTemp) data provided by the NOAA/OAR/ESRL PSD, Boulder, Colorado, USA, from their Web site at https://www.esrl.noaa.gov/psd/)
 
 * The R code can be found in this Github repo: 
-[https://github.com/amphibie/NOAA]
+[https://github.com/amphibie/Climate]
 
 
 
